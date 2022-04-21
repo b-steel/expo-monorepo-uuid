@@ -1,0 +1,13 @@
+{
+  "name": "expo-monorepo-uuid",
+  "version": "1.0.0",
+  "description": "minimal repro",
+  "repository": "git@github.com:b-steel/expo-monorepo-uuid.git",
+  "author": "Ben Steel <ben@think-now.com>",
+  "license": "MIT",
+  "private": true,
+  "workspaces": [
+    "apps/*",
+    "packages/*"
+  ]
+}
